@@ -16,6 +16,7 @@ screen = pygame.display.set_mode((TRACK_WIDTH, TRACK_HEIGHT))
 pygame.display.set_caption("3D Racing Game with Scaling Perspective")
 clock = pygame.time.Clock()
 
+
 # --- Colors ---
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
