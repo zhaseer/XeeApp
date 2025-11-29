@@ -10,6 +10,7 @@ TRACK_HEIGHT = 400
 OBSTACLES = [100, 250, 400, 600]  # spaced out more for longer track
 LANE_OFFSET_AI = [-100, 100]  # Spread for AI cars
 
+
 # --- Initialize Pygame ---
 pygame.init()
 screen = pygame.display.set_mode((TRACK_WIDTH, TRACK_HEIGHT))
